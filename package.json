@@ -1,0 +1,27 @@
+{
+  "name": "youtube-scraper",
+  "version": "0.0.0",
+  "description": "Youtube video scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jervenclark/youtube-scraper.git"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "scraper"
+  ],
+  "author": "Jerven Clark Chua <jervenclark@gmail.com> (http://jervenclarkchua.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jervenclark/youtube-scraper/issues"
+  },
+  "homepage": "https://github.com/jervenclark/youtube-scraper#readme",
+  "dependencies": {
+    "youtube-dl": "^1.11.1"
+  }
+}
